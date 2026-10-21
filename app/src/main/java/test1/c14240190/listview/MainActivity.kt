@@ -42,6 +42,7 @@ class MainActivity : AppCompatActivity() {
                 data[position],
                 Toast.LENGTH_SHORT
             ).show()
+
         }
     }
 }
